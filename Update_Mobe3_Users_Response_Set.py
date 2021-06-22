@@ -18,7 +18,7 @@ import iAuditor_APIs
 
 
 
-server = 'serverName 
+server = 'serverName' 
 database = 'databaseName' 
 username = 'username' 
 password = 'password' 
